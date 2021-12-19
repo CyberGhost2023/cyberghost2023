@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tushar Sachan</h1>
 <h3 align="center">A passionate frontend developer from India.I do web development and competitive programming.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberghost2023&label=Profile%20views&color=0e75b6&style=flat" alt="cyberghost2023" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberghost2023&label=Profile%20views&color=0e75b6&style=flat" alt="cyberghost2023" /> </p> -->
 
 - 🌱 I’m currently learning **nodejs and django**
 - 📄 My Resume [https://bit.ly/3e3erjk](https://bit.ly/3e3erjk)
